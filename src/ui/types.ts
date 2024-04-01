@@ -1,0 +1,1 @@
+export type CheckboxValueType = 0 | 1 | 2

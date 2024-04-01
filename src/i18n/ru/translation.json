@@ -1,0 +1,74 @@
+{
+  "routeName": {
+    "homePage": "Главная",
+    "loginPage": "Авторизация",
+    "registrationPage": "Регистрация",
+    "menuPage": "Меню",
+    "basketPage": "Корзина",
+    "ordersPage": "Заказы"
+  },
+  "homePage": {
+    "registration": "Регистрация",
+    "login": "Авторизация"
+  },
+  "registrationPage": {
+    "title": "Регистрация пользователя",
+    "placeholderEmail": "введите емайл",
+    "placeholderPassword": "введите пароль",
+    "submitButtonTitle": "Зарегистрироваться и войти"
+  },
+  "authorizationPage": {
+    "title": "Авторизация пользователя",
+    "placeholderEmail": "введите емайл",
+    "placeholderPassword": "введите пароль",
+    "submitButtonTitle": "Войти"
+  },
+  "topBar": {
+    "logout": "Выход"
+  },
+  "menuPage": {
+    "toBasket": "в корзину",
+    "inBasket": "в корзине"
+  },
+  "basketPage": {
+    "title": "Ваша корзина",
+    "emptyBasket": "Корзина пуста",
+    "toggleSelected": "Выбрать все/снять все",
+    "clearBasket": "очистить корзину",
+    "deleteItem": "удалить",
+    "sumary": "итого, сумма отмеченных товаров в корзине",
+    "moveToOrder": "перейти к оформлению товара"
+  },
+  "ordersPage": {
+    "title": "Ваши заказы",
+    "paymentMethod": {
+      "cashToCourier": "наличными курьеру",
+      "bankTransferToCourier": "безналичными курьеру",
+      "bankTransferToSite": "безналичными на сайте"
+    },
+    "warning": {
+      "emptyFields": "не заполнено одно или несколько полей",
+      "paymentNotPerform": "оплата не произведена"
+    },
+    "status": {
+      "waitPayment": "ожидает оплаты",
+      "payed": "оплачен",
+      "movedToAssembly": "передан в сборку",
+      "movedToDeliveryService": "передан в службу доставки",
+      "readyToPickup": "готов к выдаче",
+      "pickedUp": "получен",
+      "cancelled": "отменен"
+    },
+    "headerTitle": "заказ",
+    "headerSum": "сумма",
+    "getPay": "оплатить",
+    "measure": "шт",
+    "byOnePiece": "по",
+    "selectPaymentMethodPlaceholder": "Выберите способ оплаты",
+    "selectPaymentMethodTitle": "Способ оплаты",
+    "deliveryPointTitle": "Адрес доставки",
+    "deliveryPointPlaceholder": "введите адрес доставки",
+    "registerOrder": "оформить заказ"
+  },
+  "currencySymbol": "Р"
+}
